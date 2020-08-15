@@ -9,7 +9,7 @@
 - ⚡ Fun fact: hullullu llu hulllu hulluuuullluu
 - ✔ Languages I can work on : PHP, HTML5, JS, Python and Java(intermediate)
 ##
-- 🐞 Checkout my Linkedin profile at 
-- 🐱‍👤Checkout my Github profile at https://www.instagram.com/hackerboey/
+- 🐞 Checkout my Linkedin profile at  https://twitter.com/hackerboey
+- 🐱‍👤Checkout my Github profile at  https://www.instagram.com/hackerboey
 - 🐥 Checkout my Instagram profile at https://www.linkedin.com/in/hackerboey
-- 👻 Checkout my Twitter profile at 
+- 👻 Checkout my Twitter profile at   https://stackoverflow.com/users/8367694/hackerboey
